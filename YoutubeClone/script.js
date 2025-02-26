@@ -1,27 +1,4 @@
-// const getdata=()=>
-// {
-//    const pr= fetch("https://youtube138.p.rapidapi.com/v2/trending",{         
-//     method:"GET",     //optional::default is GET
-//     headers:{
-//         "x-rapidapi-host":"youtube138.p.rapidapi.com",
-//         "x-rapidapi-key":"641476618dmsh0f65863cb701125p1492fejsn8470177b784a"
-//     }
-//    });
 
-//    pr.then((res)=>
-//    {
-//     const pr2=res.json();
-//     pr2.then((data)=>
-//     {
-//         console.log(data);
-//     });
-
-// }).catch((err)=>
-// {
-//   alert(err.message);
-// })
-// }
-// getdata();
 const dummydata = [
     [
         {
