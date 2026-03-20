@@ -76,7 +76,7 @@ export default function CaseStudy() {
   return (
     <div className="bg-[var(--color-bg-light)] min-h-screen text-[var(--color-text-light)]" ref={containerRef}>
       
-      {/* HERO */}
+      {/* HERO SECTION */}
       <div className="relative h-screen w-full overflow-hidden">
         <motion.div style={{ y }} className="absolute inset-0 top-[-10%] h-[120%] pointer-events-none">
           <video
